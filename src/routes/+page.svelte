@@ -28,3 +28,4 @@
 <a href="brucetest4">Bruces Test Page - branche brucetest4</a>
 
 <a href="brucetest7">Bruces Test Page - branche brucetest7</a>
+<a href="/brucetest8">Check out the new page</a>
